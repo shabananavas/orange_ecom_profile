@@ -41,6 +41,7 @@ dependencies:
   - quickedit
   - rdf
   - responsive_image
+  - search
   - shortcut
   - syslog
   - system
