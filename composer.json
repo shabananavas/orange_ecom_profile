@@ -54,6 +54,7 @@
     "drupal/views_infinite_scroll": "^1.5",
     "acromedia/orange_checkout_flow": "dev-8.x-1.x",
     "acromedia/orange_ecom_starter": "dev-8.x-1.x",
+    "acromedia/orange_framework": "dev-8.x-1.x",
     "acromedia/acro_live_css": "dev-8.x-1.x"
   }
 }
