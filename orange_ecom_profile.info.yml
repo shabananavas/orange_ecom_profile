@@ -5,7 +5,6 @@ description: 'Drupal Orange E-Commerce install profile by Acro Media Inc.'
 
 dependencies:
   # Standard.
-  - automated_cron
   - block
   - block_content
   - breakpoint
@@ -42,7 +41,6 @@ dependencies:
   - quickedit
   - rdf
   - responsive_image
-  - search
   - shortcut
   - syslog
   - system
@@ -79,6 +77,7 @@ dependencies:
   # Contrib.
   - admin_toolbar
   - admin_toolbar_tools
+  - advagg
   - better_exposed_filters
   - ctools
   - ckeditor_font
@@ -128,5 +127,4 @@ dependencies:
 
 themes:
   - seven
-  - orange_framework
   - orange_ecom_starter
